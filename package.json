@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/Distruttor/examCode#readme",
   "dependencies": {
+    "body-parser": "^1.18.2",
     "express": "^4.16.2"
   }
 }
